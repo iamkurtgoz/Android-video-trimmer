@@ -1,7 +1,8 @@
-[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/hyperium/hyper/master/LICENSE)
+###منصة-شليله
+[![MIT منصةشليله](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/hyperium/hyper/master/LICENSE)
 [![](https://jitpack.io/v/a914-gowtham/Android-video-trimmer.svg)](https://jitpack.io/#a914-gowtham/Android-video-trimmer)
 
-# Android-video-trimmer
+# Android-video-trimmer-mnstshlylh-Search
 
 ##### Helps to trim local videos with many customizations on Android applications using exoplayer2 and FFmpeg.
 
